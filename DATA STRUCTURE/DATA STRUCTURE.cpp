@@ -10,6 +10,7 @@ struct Student
     int id;
     string name;
     float marks;
+
 };
 
 Student s[100];
